@@ -1,0 +1,5 @@
+iadfad
+9daf
+
+接下来介绍 Git 的命令操作，包含 init、add 等，在 Git 中，所有的命令都是以git开头，例如，git init其作用就是初始一个 Git 仓库。
+
